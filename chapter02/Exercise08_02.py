@@ -14,13 +14,13 @@
  */
 '''
 
-# Prompet the user for inputting the amountt of water in kilograms
+# Prompt the user for inputting the amountt of water in kilograms
 kilograms = eval(input("Enter the amount of water in kilograms: "))
 
-# Prompet the user for inputting the initial temperature
+# Prompt the user for inputting the initial temperature
 initialTemperature = eval(input("Enter the initial temperature: "))
 
-# Prompet the user for inputting the final temperature
+# Prompt the user for inputting the final temperature
 finalTemperature = eval(input("Enter the final temperature: "))
 
 # Compute the energy

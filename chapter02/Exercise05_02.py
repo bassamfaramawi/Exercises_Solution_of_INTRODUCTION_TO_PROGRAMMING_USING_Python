@@ -11,7 +11,7 @@
  */
 '''
 
-# Prompet the user for inputting the subtotal and a gratuity rate
+# Prompt the user for inputting the subtotal and a gratuity rate
 subtotal, gratuityRate = eval(input("Enter the subtotal and a gratuity rate: "))
 
 # Compute the subtotal and gratuityRate

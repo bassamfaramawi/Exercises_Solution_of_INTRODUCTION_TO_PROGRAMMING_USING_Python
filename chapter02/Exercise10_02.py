@@ -14,7 +14,7 @@
  */
 '''
 
-# Prompet the user for  inpputting speed and acceleration:
+# Prompt the user for  inpputting speed and acceleration:
 speed, acceleration = eval(input("Enter speed and acceleration: "))
 
 # Calculate length

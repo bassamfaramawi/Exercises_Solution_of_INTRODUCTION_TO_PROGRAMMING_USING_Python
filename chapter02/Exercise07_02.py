@@ -10,7 +10,7 @@
  */
 '''
 
-# Prompet hte user for inputting minutes
+# Prompt hte user for inputting minutes
 minutes = eval(input("Enter the number of minutes: "))
 
 # Compute the number of years and days

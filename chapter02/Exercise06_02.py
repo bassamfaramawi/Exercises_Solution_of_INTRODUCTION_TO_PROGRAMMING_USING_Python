@@ -12,7 +12,7 @@
  */
 '''
 
-# Prompet the user for inputting the number
+# Prompt the user for inputting the number
 number = eval(input("Enter a number between 0 and 1000: "))
 
 # compute the digits

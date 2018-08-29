@@ -12,7 +12,7 @@
  */
 '''
 PI = 3.14259
-# Prompet the user for inputting the radius and length
+# Prompt the user for inputting the radius and length
 radius, length = eval(input("Enter the radius and length of a cylinder: "))
 
 # Compute the area

@@ -10,7 +10,7 @@
  */
 '''
 
-# Prompet the user for inputting number in pounds
+# Prompt the user for inputting number in pounds
 pounds = eval(input("Enter a value in pounds: "))
 
 # Compute kilograms

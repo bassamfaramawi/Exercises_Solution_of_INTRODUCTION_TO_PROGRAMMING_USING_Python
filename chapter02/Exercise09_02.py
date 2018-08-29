@@ -21,10 +21,10 @@
  */
 '''
 
-# Prompet the user for inputtinng the temperature in Fahrenheit between -58°F and 41°F
+# Prompt the user for inputtinng the temperature in Fahrenheit between -58°F and 41°F
 ta = eval(input("Enter the temperature in Fahrenheit between -58°F and 41°F: "))
 
-# Prompet the user for inputtinng the wind speed (>=2) in miles per hour
+# Prompt the user for inputtinng the wind speed (>=2) in miles per hour
 v = eval(input("Enter the wind speed (>=2) in miles per hour: "))
 
 # Compute the wind-chill temperature

@@ -10,7 +10,7 @@
  * @since 2018
  */
 '''
-# Prompet the user for inputting Celsuis degree
+# Prompt the user for inputting Celsuis degree
 celsius = eval(input("Enter a degree in Celsius: "))
 
 # Compute Fahrenheit degree

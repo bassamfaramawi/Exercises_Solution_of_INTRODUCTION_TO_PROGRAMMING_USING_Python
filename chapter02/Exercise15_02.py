@@ -9,7 +9,7 @@
  * @since 2018
  */
 '''
-# Prompet the user for inputting the side
+# Prompt the user for inputting the side
 side = eval(input("Enter the side: "))
 
 # Compute the area

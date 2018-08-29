@@ -9,7 +9,7 @@
  */
 '''
 
-# Prompet the  user for  inputting number in feet
+# Prompt the  user for  inputting number in feet
 feet = eval(input("Enter a value for feet: "))
 
 # compute in meters
