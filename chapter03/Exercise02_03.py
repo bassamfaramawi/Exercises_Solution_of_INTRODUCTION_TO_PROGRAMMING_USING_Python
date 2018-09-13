@@ -36,5 +36,5 @@ EARTH_RADIUS = 6371.01  # earth radius in Km as a constant
 # Compute the great circle distance
 d = EARTH_RADIUS * math.acos(math.sin(x1) * math.sin(x2) + math.cos(x1) * math.cos(x2) * math.cos(y1 - y2))
 
-# # Display the result
+# Display the result
 print("The distance between the two points is ", d, " km")

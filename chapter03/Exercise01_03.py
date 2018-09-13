@@ -24,5 +24,5 @@ s = 2 * r * math.sin(math.pi / 5)
 # Compute the pentagon area
 area = 3 * math.sqrt(3) / 2 * s ** 2
 
-# # Display the result
+# Display the result
 print("The area of the pentagon is ", format(area, "7.2f"))
