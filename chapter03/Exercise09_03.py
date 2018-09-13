@@ -34,10 +34,10 @@ stateTax = eval(input("State tax withholding rate:"))
 grossPay = weeklyHours * hourlyPayRate
 
 # Federal Withholding,
-federalWithholding = grossPay * 0.2
+federalWithholding = grossPay * federalTax
 
 # State Withholding,
-stateWithholding = grossPay * 0.09
+stateWithholding = grossPay * stateTax
 
 # Total Deduction,
 totalDeduction = federalWithholding + stateWithholding
