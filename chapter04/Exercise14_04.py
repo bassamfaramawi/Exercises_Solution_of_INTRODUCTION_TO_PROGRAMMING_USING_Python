@@ -3,6 +3,7 @@
 coin displays the head or the tail. The program randomly generates an integer 0 or
 1, which represents head or tail. The program prompts the user to enter a guess
 and reports whether the guess is correct or incorrect.
+
 /**
  * @author BASSAM FARAMAWI
  * @email tiodaronzi3@yahoo.com

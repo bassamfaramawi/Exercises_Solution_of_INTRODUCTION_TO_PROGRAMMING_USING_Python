@@ -3,6 +3,7 @@
 packages. You would like to write a program to compare the costs of the
 packages. The program prompts the user to enter the weight and price of each
 package and then displays the one with the better price.
+
 /**
  * @author BASSAM FARAMAWI
  * @email tiodaronzi3@yahoo.com

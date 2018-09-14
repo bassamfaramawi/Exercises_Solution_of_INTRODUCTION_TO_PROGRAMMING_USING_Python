@@ -3,6 +3,7 @@
 Cramer’s rule given in Programming Exercise 1.13. Write a program that prompts
 the user to enter a, b, c, d, e, and f and displays the result. If ad - bc is 0, report
 that “The equation has no solution.”
+
 /**
  * @author BASSAM FARAMAWI
  * @email tiodaronzi3@yahoo.com
