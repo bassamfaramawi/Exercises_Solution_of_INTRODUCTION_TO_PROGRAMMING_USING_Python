@@ -1,7 +1,8 @@
 '''
-5.7 (Use trigonometric functions) Print the following table to display the sin value
-and cos value of degrees from 0 to 360 with increments of 10 degrees. Round the
-value to keep four digits after the decimal point.
+5.7 (Use trigonometric functions) Print the following table to
+display the sin value and cos value of degrees from 0 to 360
+with increments of 10 degrees. Round the value to keep four
+digits after the decimal point.
 
    Degree    Sin         Cos
    0         0.0000      1.0000
