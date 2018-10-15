@@ -35,6 +35,5 @@ while number <= 1000:
             print(number)
         else:
             print(number, end=" ")
-
     # Check if the next number is prime
     number += 1
